@@ -108,9 +108,11 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="Supporting VIs" Type="Folder" URL="../Supporting VIs">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Embedded UI example.vi" Type="VI" URL="../Embedded UI example.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Microstep.vi" Type="VI" URL="../Microstep.vi"/>
-		<Item Name="Servo motor.vi" Type="VI" URL="../Servo motor.vi"/>
 		<Item Name="Sketch.vi" Type="VI" URL="../Sketch.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
