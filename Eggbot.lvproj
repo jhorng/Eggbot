@@ -113,6 +113,7 @@ AddOutputFilter chunkFilter
 			<Property Name="NI.SortType" Type="Int">0</Property>
 		</Item>
 		<Item Name="DNA.vi" Type="VI" URL="../DNA.vi"/>
+		<Item Name="Grid.vi" Type="VI" URL="../Grid.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Rings.vi" Type="VI" URL="../Rings.vi"/>
 		<Item Name="Sinusoidal.vi" Type="VI" URL="../Sinusoidal.vi"/>
@@ -258,9 +259,7 @@ AddOutputFilter chunkFilter
 			<Item Name="rioembeddedcanlvapi.dll" Type="Document" URL="rioembeddedcanlvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Stepper motor A.vi" Type="VI" URL="../2015/Eggbot/supporting VIs/Stepper motor A.vi"/>
 			<Item Name="Stepper motor A.vi" Type="VI" URL="../supporting VIs/Stepper motor A.vi"/>
-			<Item Name="Stepper motor B.vi" Type="VI" URL="../2015/Eggbot/supporting VIs/Stepper motor B.vi"/>
 			<Item Name="Stepper motor B.vi" Type="VI" URL="../supporting VIs/Stepper motor B.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
