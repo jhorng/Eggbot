@@ -114,12 +114,12 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="DNA.vi" Type="VI" URL="../DNA.vi"/>
 		<Item Name="Grid.vi" Type="VI" URL="../Grid.vi"/>
-		<Item Name="Linear Line.vi" Type="VI" URL="../Linear Line.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Midpoint Circle.vi" Type="VI" URL="../../Bresenham&apos;s Circle/Midpoint Circle.vi"/>
 		<Item Name="Rings with Colors.vi" Type="VI" URL="../Rings with Colors.vi"/>
 		<Item Name="Square wave.vi" Type="VI" URL="../Square wave.vi"/>
 		<Item Name="Square.vi" Type="VI" URL="../Square.vi"/>
+		<Item Name="Star shape.vi" Type="VI" URL="../Star shape.vi"/>
 		<Item Name="Testing.vi" Type="VI" URL="../Testing.vi"/>
 		<Item Name="Triangle.vi" Type="VI" URL="../Triangle.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -201,8 +201,6 @@ AddOutputFilter chunkFilter
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Stepper motor A.vi" Type="VI" URL="../2015/Eggbot/supporting VIs/Stepper motor A.vi"/>
-			<Item Name="Stepper motor B.vi" Type="VI" URL="../2015/Eggbot/supporting VIs/Stepper motor B.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
