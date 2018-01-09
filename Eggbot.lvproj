@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Grid.vi" Type="VI" URL="../Grid.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Midpoint Circle.vi" Type="VI" URL="../../Bresenham&apos;s Circle/Midpoint Circle.vi"/>
+		<Item Name="Ring-shaped Horizontal Lines.vi" Type="VI" URL="../Ring-shaped Horizontal Lines.vi"/>
 		<Item Name="Rings with Colors.vi" Type="VI" URL="../Rings with Colors.vi"/>
 		<Item Name="Square wave.vi" Type="VI" URL="../Square wave.vi"/>
 		<Item Name="Square.vi" Type="VI" URL="../Square.vi"/>
